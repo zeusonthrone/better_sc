@@ -21,3 +21,7 @@ __Данный скрипт умеет:__
 2. В расширении нужно нажать на плюс и вставить код из index.js
 3. Нажать Сохранить и перезагрузить страницу stalkchain. 
 * Чтобы его выключить нужно на странице stalkchain открыть расширение, нажать на ползунок скрипта и перезагрузить стараницу.
+
+### Referral Program
+Referral Link: https://stalkchain.com/?af=BAWUGORO \
+Referral Code: BAWUGORO
